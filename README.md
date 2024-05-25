@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://content.techgig.com/photo/76527603/4-tips-every-software-engineer-should-follow-in-todays-age.jpg?119058" alt="Project Banner" style="border-radius: 10px;">
+      <img src="public/cover.png" alt="Project Banner" style="border-radius: 10px;">
   <br />
 
   <div>
