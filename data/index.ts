@@ -53,7 +53,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a Django Project",
+    title: "Currently learning a Spring Boot",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -84,19 +84,19 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Dash Go",
+    des: "Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board.",
+    img: "/work-2.jpeg",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://ct-dash-go.vercel.app",
+  },
+  {
+    id: 3,
     title: "Weather App",
     des: "Made a website project for live location weather details.",
     img: "/work-1.png",
     iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://weather-site-aditya.netlify.app/",
-  },
-  {
-    id: 3,
-    title: "DeceptiConf Clone",
-    des: "Sleek website crafted with TailwindCSS for efficiency.",
-    img: "/work-5.jpeg",
-    iconLists: ["/html.svg", "/tail.svg"],
-    link: "https://aditya10403.github.io/DeceptiConf-Clone/",
   },
   {
     id: 4,
@@ -119,7 +119,7 @@ export const Services = [
   {
     id: 2,
     title: "Programming",
-    desc: "Solved 150+ easy to hard Problems on LeetCode",
+    desc: "Solved 200+ easy to hard Problems on LeetCode",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
