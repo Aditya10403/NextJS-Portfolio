@@ -76,19 +76,25 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "ECounselling application",
+    des: "E-counseling app guiding students in exploring colleges and informed admission decisions.",
+    img: "/sb.jpeg",
+    iconLists: [
+      "/spring-boot.svg",
+      "/java.svg",
+      "/re.svg",
+      "/mysql.svg",
+      "/tail.svg",
+    ],
+    link: "https://e-counselliing.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Havenly Homes Application",
     des: "Dynamic real estate platform powered by MERN stack technology.",
     img: "/work-4.jpeg",
     iconLists: ["/mg.svg", "/ejs.svg", "/re.svg", "/njs.svg", "/tail.svg"],
     link: "https://havenlyhomes.onrender.com/",
-  },
-  {
-    id: 2,
-    title: "Dash Go",
-    des: "Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board.",
-    img: "/work-2.jpeg",
-    iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://ct-dash-go.vercel.app",
   },
   {
     id: 3,
